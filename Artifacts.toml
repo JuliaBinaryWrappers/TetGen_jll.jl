@@ -1,115 +1,115 @@
 [[TetGen]]
 arch = "aarch64"
-git-tree-sha1 = "5b8c69fd749e1e1a807ff09225bf953a633209cc"
+git-tree-sha1 = "bfd25e682b87e2c57ec27319679cf46ebf46d9a8"
 libc = "glibc"
 os = "linux"
 
     [[TetGen.download]]
-    sha256 = "c1036e07b5bd25e9aa2ca4ce5b448d8c96e1b27bad4f5d154fb2d4fccaf93c6f"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "7e8f3e094dbc9a9775b231ab75dc09bbd38cd4c89eab2bfcfaedd97e836df51f"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.aarch64-linux-gnu.tar.gz"
 [[TetGen]]
 arch = "aarch64"
-git-tree-sha1 = "1ff6fe52b691a9e5277db6e9c44f43d0db311c9d"
+git-tree-sha1 = "c12e1b600be5ccc707dac33f158a018b76ac305c"
 libc = "musl"
 os = "linux"
 
     [[TetGen.download]]
-    sha256 = "ec61998a0af3e80cd63ee964e519c6ed790650ffdd414ba402c1dd676e701e6c"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.aarch64-linux-musl.tar.gz"
+    sha256 = "064a25c0139508f01ce757af6faa144587c83b1fcfe969c60eb92f09386da833"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.aarch64-linux-musl.tar.gz"
 [[TetGen]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "06a00f4352a41637189f15bb7041d68ccf1acd98"
+git-tree-sha1 = "23e234afeaf7fb68324ad4e8bdd393b86f1cf17e"
 libc = "glibc"
 os = "linux"
 
     [[TetGen.download]]
-    sha256 = "4df432240c007f5e2f960d0368c6221726a6dc847c6c1bfbbfe464bc1707c85e"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "5a14a542badecf2f573427b42e26d5301783a47c801f7b5d4cd7cceb1b1086f4"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.armv7l-linux-gnueabihf.tar.gz"
 [[TetGen]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "aea4737599852f2db2653ded2ea543a9a8d17fac"
+git-tree-sha1 = "3a4453fffd00022ab0350eacb811565ed4652ff7"
 libc = "musl"
 os = "linux"
 
     [[TetGen.download]]
-    sha256 = "c5b8a7c352a75d788eac7940d78ea2d8adda16927836469753815276f3e68466"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "5d785d0ef1824397a1fe5e237cda834f2fec05f53f94cc01b7d3708f4c76922e"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.armv7l-linux-musleabihf.tar.gz"
 [[TetGen]]
 arch = "i686"
-git-tree-sha1 = "5d95f3c65100d96ea561d462ba6655365ec00c67"
+git-tree-sha1 = "e1fc7bd9fb533173823eb2bc41649c42bb14f121"
 libc = "glibc"
 os = "linux"
 
     [[TetGen.download]]
-    sha256 = "420b0ecea15c37774225b8aea1f62cb47d0bf5da5f7365a0cbedcc35c692a76b"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.i686-linux-gnu.tar.gz"
+    sha256 = "bc228640fcda9bb643143863778a7385129b255309de8f46dd6fd72f49a153cf"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.i686-linux-gnu.tar.gz"
 [[TetGen]]
 arch = "i686"
-git-tree-sha1 = "bf0ad584d1a14878de272238501b893c8041385f"
+git-tree-sha1 = "8ba73185b8433cba4978b96d562b35adb2219d0f"
 libc = "musl"
 os = "linux"
 
     [[TetGen.download]]
-    sha256 = "b882a161faa3a2cdb60e845e76332f24c94166f7331d652b68d9a0b401ccc92c"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.i686-linux-musl.tar.gz"
+    sha256 = "11fcca56c21f9b119dc5bfa39a412fdd2146c8197d2811f8c48e25dba599cadb"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.i686-linux-musl.tar.gz"
 [[TetGen]]
 arch = "i686"
-git-tree-sha1 = "95f353d70fde77da2c992a8fe781ecc963b1adf8"
+git-tree-sha1 = "e7bdfb6245cd865caf1ecee588ae60393f1780f2"
 os = "windows"
 
     [[TetGen.download]]
-    sha256 = "2ceca1b2bc01ba917002e3926e36845ce897ec3543439faaeb4cb469c0f64b29"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.i686-w64-mingw32.tar.gz"
+    sha256 = "ed0a6af4d299f9c08b1fc98afe897ee77a71f810f7ca9fea4387c8a8030d124e"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.i686-w64-mingw32.tar.gz"
 [[TetGen]]
 arch = "powerpc64le"
-git-tree-sha1 = "3369e4534c9b36842620b2b865203729acc983c2"
+git-tree-sha1 = "48d7cc0d65d3e9c9135b931baf43c08b4231eae9"
 libc = "glibc"
 os = "linux"
 
     [[TetGen.download]]
-    sha256 = "78fc4d921088a84804b1a4c7a8b0829b42c3068774cfb0a410d2f882c9b82263"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "6951e3219e48b55a8deaeeb53445eb4ce5c0c7eb0030f6b0df9b88f1c1219e3c"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.powerpc64le-linux-gnu.tar.gz"
 [[TetGen]]
 arch = "x86_64"
-git-tree-sha1 = "b0d9ce67ab402b437d231e46a97cf15976aa596f"
+git-tree-sha1 = "203ab90a75cd9f37b2b6192dc551569d0d793377"
 os = "macos"
 
     [[TetGen.download]]
-    sha256 = "f12d2b3ca619a8e34410a23a0cec707abc8be402aabcbba913bb60485e9b4dbb"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "590a0fc772cbbe6fc6118a0a16aebd9c5a0b43e9cc53bd0d3a16a5738048cbb6"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.x86_64-apple-darwin.tar.gz"
 [[TetGen]]
 arch = "x86_64"
-git-tree-sha1 = "772a7617bca0416fde41cba014e7743d55290172"
+git-tree-sha1 = "d99f93c0f125d68bbb536430f587d430d7d6962e"
 libc = "glibc"
 os = "linux"
 
     [[TetGen.download]]
-    sha256 = "12382bae9dc5d2a763b089f776b629df4e55882949d3b7feda5a599d9515c30e"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "938078001226c48fd85b9f441b532bf7c3f34b95fd111572368baba70ba9c728"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.x86_64-linux-gnu.tar.gz"
 [[TetGen]]
 arch = "x86_64"
-git-tree-sha1 = "b0445425738b99252be94ccce3f3c1cedcd77697"
+git-tree-sha1 = "8e24cf14e55b7934b4849725e6422637626f48c5"
 libc = "musl"
 os = "linux"
 
     [[TetGen.download]]
-    sha256 = "629f519c1f3c3f33b64176baa57a1e3b5177ae545aff5a616d39e98d724418b0"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.x86_64-linux-musl.tar.gz"
+    sha256 = "ffcd287b1b7ce96020ba3ac4c5bfa934387288891099b715d04d8b266bf66be4"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.x86_64-linux-musl.tar.gz"
 [[TetGen]]
 arch = "x86_64"
-git-tree-sha1 = "be11f25221807999fc2096ddf736f9280d797a47"
+git-tree-sha1 = "ef566bd4e2b432d669a11e6b11acfdabd31b0376"
 os = "freebsd"
 
     [[TetGen.download]]
-    sha256 = "157a518c93989df5d40829883e2ea64f0da5c44c21fcb996e7a264b84d4a68c5"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "30f951a84d4ea714cc21318d0526dee0991bf8dff9ecb82e7a3f20c42319ea32"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.x86_64-unknown-freebsd.tar.gz"
 [[TetGen]]
 arch = "x86_64"
-git-tree-sha1 = "2cf99c735686e27de4ad6bbd628bcc530a2032b3"
+git-tree-sha1 = "c1daecf0089b9e54e8cf0ba3ee9d791e37704d80"
 os = "windows"
 
     [[TetGen.download]]
-    sha256 = "45de2339a108d3a1b2b40753a875960344ce1b6bf41cd8ab495d9ccb6ec73999"
-    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+1/TetGen.v1.5.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "35c71ccc3c4f967c2952bc60f31f128582d6ec587d1c1bd6c79357e5b37266d6"
+    url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.1+2/TetGen.v1.5.1.x86_64-w64-mingw32.tar.gz"
