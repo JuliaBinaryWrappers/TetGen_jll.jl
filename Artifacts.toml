@@ -92,11 +92,11 @@ os = "linux"
     url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.4+0/TetGen.v1.5.4.i686-linux-musl.tar.gz"
 [[TetGen]]
 arch = "i686"
-git-tree-sha1 = "2e962e371d13f69c32a1cf91eb277308360dc64a"
+git-tree-sha1 = "a18bb844ef89dcd883354c08eabf7f0464a29d35"
 os = "windows"
 
     [[TetGen.download]]
-    sha256 = "dfbb85fe44c52711a242001564f68a151317e976982318e3a7f42c1b528bfa84"
+    sha256 = "1192d7043dd7ad542c91fa26cc83a85b2967a387993455641aada4ffd1a0bd14"
     url = "https://github.com/JuliaBinaryWrappers/TetGen_jll.jl/releases/download/TetGen-v1.5.4+0/TetGen.v1.5.4.i686-w64-mingw32.tar.gz"
 [[TetGen]]
 arch = "powerpc64le"
